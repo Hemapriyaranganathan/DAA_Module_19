@@ -1,7 +1,7 @@
 # EX 1B Merge Sort
 ## DATE:
 ## AIM:
-To write a python program to sort the first half of the list using merge sort.
+To Write a Program for Implementing merge sort using python recursion
 
 ## Algorithm
 1. If the array has more than one element, split it into two halves.
@@ -14,8 +14,8 @@ To write a python program to sort the first half of the list using merge sort.
 ```
 /*
 Program to implement Merge Sort
-Developed by: 
-Register Number:  
+Developed by: Hemapriya R
+Register Number: 212222040055 
 */
 ```
 

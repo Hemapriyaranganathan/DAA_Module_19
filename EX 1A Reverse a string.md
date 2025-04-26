@@ -4,11 +4,11 @@
 To Write a Program to Create a recursive function to reverse a string
 
 ## Algorithm
-1.Take input string s.
+1. Take input string s.
 2. If length of s is 0 or 1, return s (base case).
-3.Otherwise, recursively call the function with s[1:].
-4.Append s[0] to the result of the recursive call.
-5.Return the final reversed string. 
+3. Otherwise, recursively call the function with s[1:].
+4. Append s[0] to the result of the recursive call.
+5. Return the final reversed string. 
 
 ## Program:
 ```
